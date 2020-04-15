@@ -28,4 +28,5 @@ Articles and additional resources: [http://www.jeremybytes.com/Demos.aspx#AA](ht
 
 **Other Resources**  
 * [New is Glue](https://ardalis.com/new-is-glue) (article by Steve Smith)  
+* [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/) (article by Joel Spolsky)
 * [Goldilocks and the Three Bears](https://archive.org/details/goldilocks_and_the_three_bears) (video with real bears)
